@@ -40,10 +40,7 @@ const Footer = () => (
           <a href="#"><FaInstagram className="text-gray-500 hover:text-orange-400" /></a>
           <a href="#"><FaTwitter className="text-gray-500 hover:text-orange-400" /></a>
         </div>
-        {/* <div className="flex gap-2 mt-2">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_Play_Store_badge_EN.svg" alt="Google Play" className="h-8" />
-          <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="App Store" className="h-8" />
-        </div> */}
+       
       </div>
     </div>
     <div className="text-center text-gray-400 text-xs mt-8">All rights reserved@jadoo.co</div>
